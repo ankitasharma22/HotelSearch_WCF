@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchHotelWCF", "SearchHotelWCF\SearchHotelWCF.csproj", "{7A5089F2-2A7A-48E9-AAE4-04BAE04CC9B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelSearch", "HotelSearch\HotelSearch.csproj", "{910B8B50-D204-4D97-8EE9-085B7D624FBE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7A5089F2-2A7A-48E9-AAE4-04BAE04CC9B0} = {7A5089F2-2A7A-48E9-AAE4-04BAE04CC9B0}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A5089F2-2A7A-48E9-AAE4-04BAE04CC9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A5089F2-2A7A-48E9-AAE4-04BAE04CC9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A5089F2-2A7A-48E9-AAE4-04BAE04CC9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A5089F2-2A7A-48E9-AAE4-04BAE04CC9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910B8B50-D204-4D97-8EE9-085B7D624FBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910B8B50-D204-4D97-8EE9-085B7D624FBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910B8B50-D204-4D97-8EE9-085B7D624FBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910B8B50-D204-4D97-8EE9-085B7D624FBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A04D240-C81B-4D9F-8823-6CC90698C67C}
+	EndGlobalSection
+EndGlobal

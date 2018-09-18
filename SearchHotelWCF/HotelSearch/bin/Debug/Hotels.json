@@ -1,0 +1,81 @@
+[
+    { 
+    "HotelID" : "1",
+    "HotelName" : "Radison Blu",
+    "HotelAddress" : "7, Wardha Road, Chhatrapati Square, Nagpur, Maharashtra 440015",
+    "HotelRating" : 4,
+    "StartDate" : "2018-08-31",
+    "EndDate" : "2018-09-05" 
+},
+{ 
+    "HotelID" : "2",
+    "HotelName" : "Hyatt Regency",
+    "HotelAddress" : "Weikfield IT Park, Pune Nagar Road, Pune, Maharashtra 411014",
+    "HotelRating" : 5,
+    "StartDate" : "2018-09-02",
+    "EndDate" : "2018-09-04" 
+},
+{ 
+    "HotelID" : "3",
+    "HotelName" : "Novotel Pune",
+    "HotelAddress" : "Weikfield IT City Infopark Survey No 30/3, Ramwadi, Viman Nagar, Pune, Maharashtra 411014",
+    "HotelRating" : 4,
+    "StartDate" : "2018-09-03",
+    "EndDate" : "2018-09-14" 
+},
+{ 
+    "HotelID" : "4",
+    "HotelName" : "The Pride Hotel",
+    "HotelAddress" : "Opposite Dr Babasaheb Ambedkar International Airport, Wardha Rd, Sonegaon, Nagpur, Maharashtra 440025",
+    "HotelRating" : 4,
+    "StartDate" : "2018-09-20",
+    "EndDate" : "2018-09-20" 
+},
+{ 
+    "HotelID" : "5",
+    "HotelName" : "The Taj Mahal Palace",
+    "HotelAddress" : "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001",
+    "HotelRating" : 5,
+    "StartDate" : "2018-09-21",
+    "EndDate" : "2018-09-24" 
+},
+{ 
+    "HotelID" : "6",
+    "HotelName" : "The Leela Palace",
+    "HotelAddress" : "Pichola, Udaipur, Rajasthan 313001",
+    "HotelRating" : 3,
+    "StartDate" : "2018-10-02",
+    "EndDate" : "2018-10-06" 
+},
+{ 
+    "HotelID" : "7",
+    "HotelName" : "The Oberoi Amarvilas",
+    "HotelAddress" : "Taj East Gate Rd, Paktola, Near, Agra, Uttar Pradesh 282001",
+    "HotelRating" : 4,
+    "StartDate" : "2018-09-05",
+    "EndDate" : "2018-09-06" 
+},
+{ 
+    "HotelID" : "8",
+    "HotelName" : "Taj Lake Palace",
+    "HotelAddress" : "Pichola, Udaipur, Rajasthan 313001",
+    "HotelRating" : 5,
+    "StartDate" : "2018-09-20",
+    "EndDate" : "2018-09-22" 
+},
+{ 
+    "HotelID" : "9",
+    "HotelName" : "Umaid Bhawan Palace",
+    "HotelAddress" : "Circuit House Rd, Cantt Area, Jodhpur, Rajasthan 342006",
+    "HotelRating" : 5,
+    "StartDate" : "2018-09-02",
+    "EndDate" : "2018-12-04" 
+},
+{ 
+    "HotelID" : "10",
+    "HotelName" : "The Oberoi Vanyavilas",
+    "HotelAddress" : "Ranthambhore Rd, Sawai Madhopur, Rajasthan 322001",
+    "HotelRating" : 5,
+    "StartDate" : "2018-11-02",
+    "EndDate" : "2018-12-04" 
+}]

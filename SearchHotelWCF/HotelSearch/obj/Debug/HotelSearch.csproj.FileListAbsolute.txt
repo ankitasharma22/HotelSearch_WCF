@@ -1,0 +1,6 @@
+C:\Users\asharma\source\repos\SearchHotelWCF\HotelSearch\bin\Debug\HotelSearch.exe.config
+C:\Users\asharma\source\repos\SearchHotelWCF\HotelSearch\bin\Debug\HotelSearch.exe
+C:\Users\asharma\source\repos\SearchHotelWCF\HotelSearch\bin\Debug\HotelSearch.pdb
+C:\Users\asharma\source\repos\SearchHotelWCF\HotelSearch\obj\Debug\HotelSearch.csproj.CoreCompileInputs.cache
+C:\Users\asharma\source\repos\SearchHotelWCF\HotelSearch\obj\Debug\HotelSearch.exe
+C:\Users\asharma\source\repos\SearchHotelWCF\HotelSearch\obj\Debug\HotelSearch.pdb

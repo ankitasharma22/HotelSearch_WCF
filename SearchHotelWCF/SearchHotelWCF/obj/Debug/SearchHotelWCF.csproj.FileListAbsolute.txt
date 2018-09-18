@@ -1,0 +1,7 @@
+C:\Users\asharma\source\repos\SearchHotelWCF\SearchHotelWCF\bin\Debug\SearchHotelWCF.dll.config
+C:\Users\asharma\source\repos\SearchHotelWCF\SearchHotelWCF\bin\Debug\SearchHotelWCF.dll
+C:\Users\asharma\source\repos\SearchHotelWCF\SearchHotelWCF\bin\Debug\SearchHotelWCF.pdb
+C:\Users\asharma\source\repos\SearchHotelWCF\SearchHotelWCF\bin\Debug\Newtonsoft.Json.Net20.dll
+C:\Users\asharma\source\repos\SearchHotelWCF\SearchHotelWCF\obj\Debug\SearchHotelWCF.csproj.CoreCompileInputs.cache
+C:\Users\asharma\source\repos\SearchHotelWCF\SearchHotelWCF\obj\Debug\SearchHotelWCF.dll
+C:\Users\asharma\source\repos\SearchHotelWCF\SearchHotelWCF\obj\Debug\SearchHotelWCF.pdb
